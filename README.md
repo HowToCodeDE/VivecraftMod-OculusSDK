@@ -10,6 +10,6 @@ A port of https://github.com/jrbudda/Vivecraft_118 to fabric (and back to forge)
 - [ ] Iris support
 
 # Added by this project
-- [ ] Oculus SDK instead of SteamVR
+- [ ] OpenXR instead of SteamVR
 
 [Discord server](https://discord.gg/jYyyv7zhSW)
